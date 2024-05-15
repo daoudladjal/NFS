@@ -117,7 +117,7 @@ if __name__ == '__main__':
                     time.sleep(random.randint(10,15))
             else:
                 print(suff.text)
-                time.sleep(10)
+                time.sleep(30)
         except Exception as E:
             print(E)
             time.sleep(5)
