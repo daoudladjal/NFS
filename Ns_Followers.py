@@ -120,4 +120,4 @@ if __name__ == '__main__':
                 time.sleep(30)
         except Exception as E:
             print(E)
-            time.sleep(5)
+            time.sleep(30)
